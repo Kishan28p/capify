@@ -1,0 +1,6 @@
+*.ext filter=lfs diff=lfs merge=lfs -text
+*.jpg filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+capify_backend/captioning/model/vgg16_model.h5 filter=lfs diff=lfs merge=lfs -text
+capify_backend/capifyenv/Lib/site-packages/tensorflow/python/_pywrap_tensorflow_internal.pyd filter=lfs diff=lfs merge=lfs -text
