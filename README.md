@@ -11,3 +11,5 @@ Capify uses AI to generate smart image captions. It features user login and regi
 ##  Setup-Frontend
 1. Install dependencies
 2. Start the development server
+
+### model : https://drive.google.com/drive/folders/1IdhU8mBzwsUaTo8kiO0mKML8OUX8NOLv?usp=drive_link
